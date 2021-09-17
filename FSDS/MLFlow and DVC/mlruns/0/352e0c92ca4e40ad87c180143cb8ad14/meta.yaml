@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/iNeuron/Courses/Full%20Stack%20Data%20Science/Challenges/Predictive%20Maintenance/mlruns/0/352e0c92ca4e40ad87c180143cb8ad14/artifacts
+end_time: 1631910688641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 352e0c92ca4e40ad87c180143cb8ad14
+run_uuid: 352e0c92ca4e40ad87c180143cb8ad14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631910683692
+status: 3
+tags: []
+user_id: Admin
